@@ -1,0 +1,11 @@
+{
+  "name": "dev-null-logger",
+  "version": "0.0.0",
+  "description": "This logger deletes all log messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias Meyer (@GamingCoder)",
+  "license": "MIT"
+}
