@@ -1,7 +1,7 @@
 {
   "name": "dev-null-logger",
   "version": "0.0.0",
-  "description": "Logger that as silent as /dev/null",
+  "description": "Logger that is as silent as /dev/null",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

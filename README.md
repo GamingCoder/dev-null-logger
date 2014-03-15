@@ -1,5 +1,5 @@
 # dev-null-logger
-Logger that as silent as /dev/null
+Logger that is as silent as /dev/null
 
 ## Functions
 ```js
